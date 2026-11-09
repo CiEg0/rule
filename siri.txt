@@ -1,0 +1,38 @@
+# Siri & Dictation 核心接口
++.guzzoni.apple.com
++.smoot.apple.com
++.siri.apple.com
++.api-siri-prod.apple.com
++.seed-siri-apple-com.v.aaplimg.com
++.nlp.apple.com
++.prod.dss.apple.com
+
+# Private Cloud Compute (PCC) & OHTTP Relay
++.apple-relay.apple.com
++.apple-native-relay.apple.com
++.apple-relay.cloudflare.com
++.apple-carry-relay.cloudflare.com
++.apple-relay.fastly-edge.com
++.apple-relay.akamaized.net
++.cp4.cloudflare.com
+
+# Private Relay & OHTTP 网关鉴权/CNAME
++.mask.icloud.com
++.mask-h2.icloud.com
++.mask-api.icloud.com
++.mask-boot.icloud.com
++.mask-canary.icloud.com
++.mask.apple-dns.net
++.mask-t.apple-dns.net
++.mask-api.fe.apple-dns.net
++.mask-api.fe2.apple-dns.net
+
+# CloudKit 网关与连通性探测
++.gateway.icloud.com
++.probe.icloud.com
++.api.apple-cloudkit.com
+
+# 地区检测防回退
+# 精确域名匹配
+gspe1-ssl.ls.apple.com
++.wps.apple.com
