@@ -35,4 +35,3 @@
 # 地区检测防回退
 # 精确域名匹配
 gspe1-ssl.ls.apple.com
-+.wps.apple.com
